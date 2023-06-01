@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/shingietande/CS_211/c++/hw5 -B /Users/shingietande/CS_211/c++/hw5/cmake-build-debug
+-- Using vendored Catch2 library (/Users/shingietande/CS_211/c++/hw5/.cs211/lib/catch)
+-- Using vendored Ge211 library (/Users/shingietande/CS_211/c++/hw5/.cs211/lib/ge211)
+-- GE211: Adding /opt/homebrew to system search path
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/shingietande/CS_211/c++/hw5/cmake-build-debug

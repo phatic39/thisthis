@@ -1,0 +1,24 @@
+Performing C++ SOURCE FILE Test CXXFLAG_WCAST_ALIGN_STRICT_OKAY failed with the following output:
+Change Dir: /Users/shingietande/CS_211/c++/hw5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-fKBpEA
+
+Run Build Command(s):/Applications/CLion.app/Contents/bin/ninja/mac/ninja cmTC_4f64a && [1/2] Building CXX object CMakeFiles/cmTC_4f64a.dir/src.cxx.o
+warning: unknown warning option '-Wcast-align=strict'; did you mean '-Wcast-align'? [-Wunknown-warning-option]
+1 warning generated.
+[2/2] Linking CXX executable cmTC_4f64a
+
+
+Source file was:
+int main() { return 0; }
+
+Performing C++ SOURCE FILE Test CXXFLAG_WERROR_BOOL_COMPARE_OKAY failed with the following output:
+Change Dir: /Users/shingietande/CS_211/c++/hw5/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-EbDZon
+
+Run Build Command(s):/Applications/CLion.app/Contents/bin/ninja/mac/ninja cmTC_a49aa && [1/2] Building CXX object CMakeFiles/cmTC_a49aa.dir/src.cxx.o
+warning: unknown warning option '-Werror=bool-compare' [-Wunknown-warning-option]
+1 warning generated.
+[2/2] Linking CXX executable cmTC_a49aa
+
+
+Source file was:
+int main() { return 0; }
+
